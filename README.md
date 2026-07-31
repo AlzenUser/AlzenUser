@@ -1,20 +1,23 @@
 # 👋 Salut, moi c’est Alzen !
 
-Passionné par l'informatique depuis toujours, j'adore bidouiller et expérimenter pour comprendre comment les choses fonctionnent.
+Passionné par l'informatique depuis toujours, j'adore bidouiller et expérimenter pour comprendre comment les choses fonctionnent. Étudiant en NSI, je suis aussi DJ amateur avec mon **Pioneer DDJ-SR** et builder Minecraft.
 
 Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) mon propre "mini-datacenter". Le but ? Auto-héberger mes services moi-même, mais aussi apprendre !
+
+🌐 [Visitez mon portfolio](https://alzen.qzz.io) | 🏠 [Statut du homelab](https://homelab.alzen.qzz.io)
 
 ---
 
 ## 💻 Ce que je fais
 
 - 🧠 **Administration système** : Administrateur **Linux (Debian/Ubuntu)** et **Windows Server**, apprentissage de l’**Active Directory**.
-- 🌐 **Administration réseau** : Routeurs **Omada** (VLANs, ACL, VPN WireGuard/OpenVPN, configurations IP…), **pfSense** (règles de pare-feu, tunnels GRE ou GIF).
-- 🐳 **Virtualisation & Conteneurs** : **Proxmox** (clusters, backups, snapshots, templates, cloud-init, passtrough PCI...) / **Docker** (Portainer, Compose, images persos) et **LXC Proxmox**.
+- 🌐 **Administration réseau** : Routeurs **Omada** et **pfSense** (VLANs, ACL, VPN WireGuard/OpenVPN/GRE/GIF, DHCP Relay, configurations IP). J'ai aussi touché à du **Arista** ou même **Sophos**.
+- 🐳 **Virtualisation & Conteneurs** : **Proxmox** (clusters, backups, snapshots, templates, cloud-init, passtrough PCI...) / **Docker** (Portainer, Compose, Komodo, images persos) et **LXC Proxmox**. Je commence à toucher **Kubernetes**.
 - 💻 **Développement** : Sites (**HTML, CSS, JS**, un peu de **PHP** et **Flask** pour le backend) / Scripts (**bash, Python**).
 - 🤖 **IA** : **Ollama** avec différents modèles pour **IA locale**.
 - 🏠 **Domotique & Automatisation** : **Home Assistant** (pour tout centraliser, MQTT, scénarios, add-ons…) et **n8n** (Automatisations).
 - 📈 **Monitoring & Supervision** : Découverte de **Grafana/Zabbix** et intégrations avec divers services (**Prometheus** pour les pings, Proxmox...).
+- ☁️ **Cloud** : Début sur **Oracle Cloud**.
 
 ---
 
@@ -50,11 +53,21 @@ Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) m
 - 📊 **Monitoring** : Création de dashboards **Grafana** et supervision avancée via **Zabbix/Prometheus**.
 
 ## 🚀 Mes Projets
-- **Ha iPixel Color** : Intégration Home Assistant qui permet de connecter un écran BKLight de chez Action à Home Assistant, le transformant ainsi en vrai dashboard domotique !
+- **Portfolio** : Mon site vitrine développé en HTML/CSS/JS pur - [alzen.qzz.io](https://alzen.qzz.io)
+- **FastFile** : Application auto-hébergée pour héberger et partager des fichiers en sécurité - [GitHub](https://github.com/AlzenUser/FastFile)
+- **HA iPixel Color** : Intégration Home Assistant qui permet de connecter un écran BKLight de chez Action à Home Assistant, le transformant ainsi en vrai dashboard domotique !
+
+## 🎯 Projets Futurs
+- **Kubernetes** : Experimentation et apprentissage de l'orchestration de conteneurs
+- **Cybersécurité** : Pratique régulière de **CTF** et initiation au **pentesting**
 
 ## 🧠 Un peu plus ?
 > Je touche un peu à tout, j’aime bien comprendre comment tout marche, que ce soit au niveau réseau, système, ou dev.  
 > Si je peux automatiser ou héberger moi-même, je le fais.
+>
+> Mon homelab compte actuellement **3 serveurs** : **Server** (un mini PC Nipogi AK1 Plus avec Intel N97, 16 Go RAM), un **Raspberry Pi 4 sous Debian 13** (passerelle pour l'accès à distance sécurisé à mon homelab) et un **NAS WD My Cloud EX2 Ultra** (8 To (2 x 4 To) en RAID 1 miroir). Il y a actuellemnt **8+ services** en production.
+>
+> Après la mort de mon ancien serveur **Astra** (Nipogi H1, Ryzen 7 6800H, 32 Go RAM - 17/05/2025), l'infrastructure a été migrée et reconstruite. Services hébergés : Nextcloud, Immich, Plex, Vaultwarden, Home Assistant, CyberPanel, Portfolio, etc.
 
 ---
 
