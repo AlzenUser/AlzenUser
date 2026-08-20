@@ -4,7 +4,7 @@ Passionné par l'informatique depuis toujours, j'adore bidouiller et expériment
 
 Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) mon propre "mini-datacenter". Le but ? Auto-héberger mes services moi-même, mais aussi apprendre !
 
-🌐 [Visitez mon portfolio](https://alzen.qzz.io) | 🏠 [Statut du homelab](https://homelab.alzen.qzz.io)
+🌐 [Visitez mon portfolio](https://alzen.me) | 🏠 [Statut du homelab](https://homelab.alzen.me)
 
 ---
 
@@ -65,7 +65,7 @@ Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) m
 > Je touche un peu à tout, j’aime bien comprendre comment tout marche, que ce soit au niveau réseau, système, ou dev.  
 > Si je peux automatiser ou héberger moi-même, je le fais.
 >
-> Mon homelab compte actuellement **3 serveurs** : **Server** (un mini PC Nipogi AK1 Plus avec Intel N97, 16 Go RAM), un **Raspberry Pi 4 sous Debian 13** (passerelle pour l'accès à distance sécurisé à mon homelab) et un **NAS WD My Cloud EX2 Ultra** (8 To (2 x 4 To) en RAID 1 miroir). Il y a actuellemnt **8+ services** en production.
+> Mon homelab compte actuellement **3 serveurs** : **Server** (un mini PC Nipogi AK1 Plus avec Intel N97, 16 Go RAM), un **Raspberry Pi 4 sous Debian 13** (passerelle pour l'accès à distance sécurisé à mon homelab) et un **NAS WD My Cloud EX2 Ultra** (8 To (2 x 4 To) en RAID 1 miroir). Il y a actuellement **15+ services** en production.
 >
 > Après la mort de mon ancien serveur **Astra** (Nipogi H1, Ryzen 7 6800H, 32 Go RAM - 17/05/2025), l'infrastructure a été migrée et reconstruite. Services hébergés : Nextcloud, Immich, Plex, Vaultwarden, Home Assistant, CyberPanel, Portfolio, etc.
 
